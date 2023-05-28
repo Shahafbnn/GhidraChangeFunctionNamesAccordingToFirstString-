@@ -6,8 +6,10 @@ The script iterates over all functions in the current program and checks if thei
 
 This script can be useful for Ghidra users who want to automatically rename functions in their Ghidra projects based on String objects or wide character arrays found within them. The script can save time and effort compared to manually renaming functions one by one.
 
-Usage
+Usage:
+
 To use this script, simply import it into your Ghidra project and run it. The script will automatically rename functions in your project based on the criteria described above.
 
-Contributing
+Contributing:
+
 Contributions to this script are welcome! If you have any suggestions for improvements or bug fixes, please feel free to open an issue or submit a pull request.
