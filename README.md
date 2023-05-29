@@ -1,4 +1,5 @@
 # GhidraChangeFunctionNamesAccordingToFirstString-
+STILL HAS BUGS
 Ghidra Function Renaming Script
 This repository contains a script for the Ghidra software reverse engineering suite that automatically renames functions in a Ghidra project based on the first String object or wide character array found in each function.
 
